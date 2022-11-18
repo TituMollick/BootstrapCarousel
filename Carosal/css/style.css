@@ -1,0 +1,51 @@
+
+/*  
+  Titu Mollick
+  https://titumallick.com/  
+  Bootstrap Carousel Website
+*/
+
+
+ /* footer section */
+ footer {
+  background: #336;
+  color: #f9f9f9;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+/* social icon section */
+.social-icons {
+  padding: 0;
+  margin: 0;
+}
+.social-icons li {
+  display: inline-block;
+  list-style: none;
+}
+.social-icons li a {
+  background: #3366CC;
+  border-radius: 50%;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  transition: all 0.4s ease-in;
+  position: relative;
+  bottom: 10px;
+  top: 10px;
+}
+.social-icons li a:hover {
+  background: #202020;
+  color: #fff;
+}
+
+/*  
+  Titu Mollick
+  https://titumallick.com/  
+  Bootstrap Carousel Website
+*/
